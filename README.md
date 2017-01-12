@@ -26,5 +26,5 @@ Let me know if you run into a bugs that is not on the Known bugs list. You can c
 
 ### License
 
-Copyrigth (c) 2017 ** Griffin P Longtin, Jim Cooke **
+Copyrigth (c) 2017 **Griffin P Longtin, Jim Cooke**
 This software is licensed under the MIT license.
